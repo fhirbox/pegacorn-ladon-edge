@@ -21,6 +21,7 @@
     
     <modules>
         <module>../pegacorn-ladon-edge-receive</module>
+        <module>../pegacorn-ladon-edge-broadcast</module>
     </modules>
     
 </project>
